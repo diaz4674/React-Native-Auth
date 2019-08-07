@@ -1,4 +1,4 @@
 export * from './Button';
-export * from './Cards';
+export * from './Card';
 export * from './CardSection';
 export * from './Header';
